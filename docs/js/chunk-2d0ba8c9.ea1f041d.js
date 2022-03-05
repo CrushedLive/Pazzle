@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ba8c9"],{"384b":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("b-container",[t("b-card",[t("router-link",{attrs:{to:{name:"play/season-1/level-1"}}},[e._v("Level 1")])],1)],1)},l=[],r={name:"Levels"},c=r,s=t("2877"),o=Object(s["a"])(c,a,l,!1,null,"215dddfb",null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0ba8c9.ea1f041d.js.map
